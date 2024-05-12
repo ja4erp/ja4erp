@@ -1,6 +1,7 @@
 # JA4ERP
 
 - **Languages**:
+- 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![GO](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -15,6 +16,7 @@
     ![AstroDB](https://img.shields.io/badge/Astrodb-%2300f.svg?style=for-the-badge&logo=astrodb&logoColor=black)
 
 - **Softwares and Tools**:
+  
     ![Proxmox](https://img.shields.io/badge/proxmox-FCC624?style=for-the-badge&logo=proxmox&logoColor=black) 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
