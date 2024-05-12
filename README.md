@@ -1,7 +1,7 @@
 # JA4ERP
 
 - **Languages**:
-- 
+ 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![GO](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=go&logoColor=white)
